@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CookTogether</string>
+    <string name="label">Cook\nTogether</string>
+    <string name="login">LOGIN</string>
+    <string name="title_activity_navigate">NavigateActivity</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Profile</string>
+</resources>
